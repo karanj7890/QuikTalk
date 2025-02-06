@@ -4,7 +4,7 @@
 
 
 
- Highlights:
+ # Highlights:
 
  Tech Stack: MERN (MongoDB, Express, React, Node.js) + Socket.io + TailwindCSS + Daisy UI
  Secure Access: Authentication and authorization using JWT
@@ -13,7 +13,7 @@
  State Management: Efficient global state handling with Zustand
  Robust Error Handling: Comprehensive error management on both server and client sides
 
-Key Features of QuikTalk:
+# Key Features of QuikTalk:
 1. Realtime Messaging: QuikTalk allows users to send and receive messages in real-time,
 2. User Authentication: Users can create an account and log in to access the chat app,
 3. Theme Selection: Users can Switch up to various themes present in Settings.
