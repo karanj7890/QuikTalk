@@ -26,14 +26,14 @@ const Sidebar = () => {
   return (
     <aside className="min-h-full w-20 lg:w-72 border-r border-base-300 flex flex-col transition-all duration-200">
         <div className="border-b border-base-300 w-full p-5">
-        <div className="flex items-center gap-2">
+        <div className="flex flex-col sm:flex-row items-center gap-2 sm:gap-4">
           <Users className="size-6" />
           <input
             type="text"
             placeholder="Search users..."
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
-            className="input input-bordered w-full"
+            className="input input-bordered w-full max-w-lg"
           />
         </div>
 

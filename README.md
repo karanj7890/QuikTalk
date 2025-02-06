@@ -1,4 +1,6 @@
- QuikTalk- A Full Stack Realtime Chat App 
+ # QuikTalk - A Full Stack Realtime Chat App
+
+ App Link- https://quiktalk-cugc.onrender.com/
 
 
  Highlights:
